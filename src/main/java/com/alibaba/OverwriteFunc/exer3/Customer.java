@@ -1,0 +1,33 @@
+package com.alibaba.OverwriteFunc.exer3;
+
+public class Customer {
+
+	private String firstName;
+	private String lastName;
+	//注意 ： 两个对象之间的关联
+	private Account account;
+	
+	public Customer(String firstName,String lastName){
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+
+	public Account getAccount() {
+		return account;
+	}
+
+	public void setAccount(Account account) {
+		this.account = account;
+	}
+
+	public String getFirstName() {
+		return firstName;
+	}
+
+	public String getLastName() {
+		return lastName;
+	}
+	
+	
+
+}
