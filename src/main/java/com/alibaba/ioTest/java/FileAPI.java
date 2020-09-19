@@ -17,6 +17,8 @@ public class FileAPI {
 		File file = new File("E:/io/io/ccc");
 		file.mkdirs();
 	}
+
+	//todo: 实现方式
 	@Test
 	public void test6() throws IOException{
 		

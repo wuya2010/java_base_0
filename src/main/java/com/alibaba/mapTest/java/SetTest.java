@@ -31,8 +31,7 @@ import org.junit.Test;
  		以链表的形式将该元素进行存放。（jdk1.8进行修改）当链表上的元素的个数达到8时将链表改成红黑树。
  */
 public class SetTest {
-	
-	
+
 	/**
 	 * LinkedHashSet : LinkedHashSet是HashSet的子类，底层实现和HashSet一样。
 	 * 		LinkedHashSet可以安照元素添加的顺序进行遍历，因为底层维护了一张链表用来记录元素添加的顺序。

@@ -68,7 +68,7 @@ abstract class GeometricObject extends Math {
 	 */
 	@Override
 	public void study() {
-		// TODO Auto-generated method stub
+		//
 		
 	}
 	

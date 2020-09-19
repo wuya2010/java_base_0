@@ -25,12 +25,12 @@ public class UserTests {
 //class User implements UserDAO{
 //	@Override
 //	public void add(Object obj) {
-//		// TODO Auto-generated method stub
+//		//
 //		
 //	}
 //	@Override
 //	public void delete(int id) {
-//		// TODO Auto-generated method stub
+//		//
 //		
 //	}
 //}

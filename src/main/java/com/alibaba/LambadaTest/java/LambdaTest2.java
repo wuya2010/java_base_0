@@ -21,7 +21,7 @@ public class LambdaTest2 {
 
 		@Override
 		public int compare(Person o1, Person o2) {
-			// TODO Auto-generated method stub
+			//
 			return 0;
 		}
 		

@@ -19,7 +19,7 @@ public class ConstruatorReferenceTest {
 
 			@Override
 			public int[] apply(Integer t) {
-				// TODO Auto-generated method stub
+				//
 				return new int[t];
 			}
 		};
@@ -44,7 +44,7 @@ public class ConstruatorReferenceTest {
 
 			@Override
 			public Person apply(Integer t) {
-				// TODO Auto-generated method stub
+				//
 				return new Person(t);
 			}
 		};

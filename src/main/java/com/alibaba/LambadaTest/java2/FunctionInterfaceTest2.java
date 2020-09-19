@@ -24,7 +24,7 @@ public class FunctionInterfaceTest2 {
 
 			@Override
 			public boolean test(String t) {
-				// TODO Auto-generated method stub
+				//
 				return false;
 			}
 		};
@@ -43,7 +43,7 @@ public class FunctionInterfaceTest2 {
 
 			@Override
 			public Integer apply(String t) {
-				// TODO Auto-generated method stub
+				//
 				return null;
 			}
 		};

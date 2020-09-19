@@ -11,13 +11,13 @@ public class GenericTest4 {
 
 			@Override
 			public String getK() {
-				// TODO Auto-generated method stub
+				//
 				return null;
 			}
 
 			@Override
 			public void setV(String v) {
-				// TODO Auto-generated method stub
+				//
 				
 			}
 		};
@@ -28,13 +28,13 @@ class Demo implements MyEnglish<String,Integer>{
 
 	@Override
 	public String getK() {
-		// TODO Auto-generated method stub
+		//
 		return null;
 	}
 
 	@Override
 	public void setV(Integer v) {
-		// TODO Auto-generated method stub
+		//
 		
 	}
 }
